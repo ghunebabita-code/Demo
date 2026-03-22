@@ -1,4 +1,4 @@
 # Demo
 This is my first repo
 <br>
-Author: Aditya Ghune
+Author: Aditya Ghune(my name)
